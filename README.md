@@ -41,6 +41,7 @@ By definition, a product manager is an individual who drives the product vision 
     - [Screeb](#screeb)
   - [OKRs & Outcome Tracking](#okrs--outcome-tracking)
     - [Tability](#tability)
+    - [RoadmapSnap](#roadmapsnap)
 - [Articles](#articles)
   - [Product Fundamentals & Philosophy](#product-fundamentals--philosophy)
   - [Product Development & Process](#product-development--process)
@@ -313,6 +314,17 @@ A lightweight OKR tracking tool that helps product teams stay focused on outcome
 | Cost       | Freemium (Paid plans from $35/mo)  |
 | Platform   | Web                                |
 | URL        | https://tability.io                |
+
+#### RoadmapSnap
+
+Open-source PMO governance platform for enterprise program visibility. Provides executive KPI dashboards, cross-program dependency mapping, and risk tracking across strategic programs. No backend required — configure via a single file.
+
+| Property | Value |
+| --- | --- |
+| Developer | [Moises Prat](https://github.com/moisesprat) |
+| Cost | Free (open source) |
+| Platform | Web |
+| URL | <https://roadmapsnapweb.pages.dev> |
 
 ## Articles
 
